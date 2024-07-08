@@ -7,7 +7,7 @@ if(isset($_POST['username']) && isset($_POST['password'])) {
     $password = $_POST['password'];
 
     // Verificar las credenciales
-    if($username === 'Rogelio' && $password === 'rog3r') {
+    if($username === 'Chucho' && $password === 'chuch') {
         $_SESSION['username'] = $username;
         $_SESSION['role'] = 'admin'; // Definir el rol del usuario
         header("Location: inicio.php");
