@@ -80,7 +80,7 @@
 </head>
 <body>
     <div class="container">
-        <h2>Punto de venta [abarrotes]! <a class="logout-link" href="logout.php">Cerrar Sesión</a></h2>
+        <h2>Punto de venta abarrotes, encuentra de todo para todos<a class="logout-link" href="logout.php">Cerrar Sesión</a></h2>
         <h3>Lista de productos</h3>
         <table>
             <thead>
