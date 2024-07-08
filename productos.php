@@ -74,7 +74,7 @@
             <input type="text" id="marca" name="marca"><br>
             <label for="precio">Precio:</label>
             <input type="number" id="precio" name="precio" step="0.01" required><br>
-            <label for="imagen">Imagen:</label>
+            <label for="imagen">Imagen del producto:</label>
             <input type="file" id="imagen" name="imagen" accept="image/*"><br>
             <input type="submit" value="Agregar Producto">
         </form>
